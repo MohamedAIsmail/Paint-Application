@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>Paint-APP/img/Logo.jpeg</file>
+    </qresource>
+</RCC>
