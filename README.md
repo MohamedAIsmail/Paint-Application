@@ -1,9 +1,9 @@
-Paint application is finished in 10/01/2022, It is created using C++ & Qt.
+//Paint application is finished in 10/01/2022, It is created using C++ & Qt.
 
 # Main Programming Methods used in the App
-***1- Object Oriented Programming*** <br />
-***2- Data Structure***<br />
-***3- Pointers and References***<br />
+***- Object Oriented Programming*** <br />
+***- Data Structure***<br />
+***- Pointers and References***<br />
 
 # Main Functions of the App
 **1- Drawing shapes using mouse event (MousePressEvent, MouseReleaseEvent, MouseMoveEvent)**<br />
