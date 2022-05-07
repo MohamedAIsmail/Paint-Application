@@ -1,4 +1,4 @@
-//Paint application is finished in 10/01/2022, It is created using C++ & Qt.
+<> (Paint application is finished in 10/01/2022, It is created using C++ & Qt.)
 
 # Main Programming Methods used in the App
 ***- Object Oriented Programming*** <br />
@@ -15,5 +15,5 @@
 **5- Saving the Image drawn**<br />
 
 
-*Project Can be Found in [Google Drive](https://drive.google.com/drive/u/0/folders/1JMJsFMaFRFBl63uwo9oRpZXaYEfrnE1p)*
+*Project can aslo be found in [Google Drive](https://drive.google.com/drive/u/0/folders/1JMJsFMaFRFBl63uwo9oRpZXaYEfrnE1p)*
 
