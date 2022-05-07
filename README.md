@@ -1,4 +1,4 @@
-<> (Paint application is finished in 10/01/2022, It is created using C++ & Qt.)
+[comment]: <>  (Paint application is finished in 10/01/2022, It is created using C++ & Qt.)
 
 # Main Programming Methods used in the App
 ***- Object Oriented Programming*** <br />
