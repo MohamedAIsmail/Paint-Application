@@ -8,6 +8,7 @@
 # Main functions of the application
 **1- Drawing shapes using mouse event (MousePressEvent, MouseReleaseEvent, MouseMoveEvent)**<br />
 >Shapes drawn are Rectangle, Circle, Line <br />
+
 **2- Undo & Redo Functions**<br />
 **3- Naming shapes & Searching shapes by its name**<br />
 **4- Sorting shapes ascendigly and descendigly according to the shape's perimeter**<br />
